@@ -1,0 +1,26 @@
+{
+  "posts": [
+    { "id": 1, "title": "json-server", "author": "typicode" }
+  ],
+  "comments": [
+    { "id": 1, "body": "some comment", "postId": 1 }
+  ],
+  "profile": { "name": "typicode" },
+  "todos":[
+    {
+      "title": "make videos for udemy",
+      "status": "notcompleted",
+      "id": 1
+    },
+    {
+      "title": "make react tutorial website",
+      "status": "notcompleted",
+      "id": 2
+    },
+    {
+      "title": "train tickets",
+      "status": "completed",
+      "id": 3
+    }
+  ]
+}
